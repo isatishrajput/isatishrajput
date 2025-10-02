@@ -1,4 +1,4 @@
-<p align="center">
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/0b5a8940-bf7d-4f98-8427-99859f809d5f" /><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
@@ -6,10 +6,12 @@
   Let's Connect and have a Chat!💬
 </h1>
 
+
 <p align="center">
-<a href="https://piyushmalhotra.netlify.app/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+<a href="https://leetcode.com/u/isatishrajput/">
+  <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/43d7f8a6-8895-4812-943b-36687227d843" />
 </a>
+  
 <a href="https://www.linkedin.com/in/thepiyushmalhotra/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>

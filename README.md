@@ -95,6 +95,13 @@ hobbies: ["Tracking", "Badminton"]
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/npm/npm-original-wordmark.svg" alt="npm" width="45" height="45"/>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isatishrajput&show_icons=true&locale=en&layout=compact" alt="isatishrajput" /></p>
+
+<p>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=isatishrajput&show_icons=true&locale=en" alt="isatishrajput" />
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>

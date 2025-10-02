@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/0b5a8940-bf7d-4f98-8427-99859f809d5f" /><p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
@@ -9,7 +9,7 @@
 
 <p align="center">
 <a href="https://leetcode.com/u/isatishrajput/">
-  <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/43d7f8a6-8895-4812-943b-36687227d843" />
+  <img height="50" alt="image" src="https://github.com/user-attachments/assets/43d7f8a6-8895-4812-943b-36687227d843" />
 </a>
   
 <a href="https://www.linkedin.com/in/thepiyushmalhotra/">
